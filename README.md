@@ -3,7 +3,7 @@
 - 👀 I’m interested in leveraging technology and artificial intelligence to drive innovation in healthcare and improve patient outcomes.  
 - 🌱 I’m currently learning about machine learning applications in health, particularly in predicting rare genetic conditions like Li-Fraumeni Syndrome, while pursuing an MBA in AI and Big Data.  
 - 💞️ I’m looking to collaborate on projects that combine healthcare, AI, and innovation to tackle pressing challenges in the medical field.  
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/anacarolRicciardi) | Email: anacarol@example.com  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ana-carolina-ricciardi-4b38252a0/) | Email: acarolinapradoft@gmail.com 
 - 😄 Pronouns: She/Her  
 - ⚡ Fun fact: I’m a physiotherapist by background and a tech enthusiast by passion, bridging the gap between medicine and technology every day!  
 
