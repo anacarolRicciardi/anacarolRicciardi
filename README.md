@@ -15,7 +15,7 @@
   - CRM loyalty programs and customer behavior analytics.
 
 - 📫 **How to reach me:**  
-  [acarolinapradoft@gmail.com](mailto:acarolinapradoft@gmail.com) | [LinkedIn](https://www.linkedin.com/in/anacarolinaprado/) | [Kaggle](https://www.kaggle.com/anacpricciardi)  
+  [acarolinapradoft@gmail.com](mailto:acarolinapradoft@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ana-carolina-ricciardi-4b38252a0/) | [Kaggle](https://www.kaggle.com/anacpricciardi)  
 
 - 😄 **Pronouns:** She/Her  
 
